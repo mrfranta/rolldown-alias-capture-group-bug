@@ -1,0 +1,11 @@
+{
+  "name": "rolldown-alias-capture-group-bug",
+  "private": true,
+  "scripts": {
+    "serve": "vite serve",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^8.0.14"
+  }
+}
